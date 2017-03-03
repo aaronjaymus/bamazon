@@ -1,0 +1,32 @@
+{
+  "name": "bamazon",
+  "version": "0.1.0",
+  "description": "Node application using SQL to replicate and online shopping experience through the command line",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronjaymus/bamazon.git"
+  },
+  "keywords": [
+    "amazon",
+    "sql",
+    "node",
+    "video",
+    "games",
+    "dogs"
+  ],
+  "author": "A. James McHale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronjaymus/bamazon/issues"
+  },
+  "homepage": "https://github.com/aaronjaymus/bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.8.0",
+    "inquirer": "^3.0.4",
+    "mysql": "^2.13.0"
+  }
+}
